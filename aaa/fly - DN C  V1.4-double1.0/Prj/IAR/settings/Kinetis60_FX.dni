@@ -1,0 +1,62 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=459328315
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[JLinkDriver]
+CStepIntDis=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000004
+[FlashMemory]
+FlashEraseSelection=0 1  
+[Breakpoints]
+Count=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "A:\double\fly - DN newC1\Chip\src\MK60_spi.c" ""
+A1=_ "A:\double\fly\Chip\src\MK60_adc.c" ""
+A2=_ "C:\Users\mingkai\Desktop\mmm\fuck\Chip\src\MK60_mcg.c" ""
+A3=_ "C:\Users\mingkai\Desktop\mmm\就是你了\Chip\src\MK60_PIT.c" "C:\Users\mingkai\Desktop\mmm\fuck\Chip\src\MK60_PIT.c"
+A4=_ "E:\en_zhi_pu\fly - DN newC1\App\main.c" "A:\double\fly - DN newC1  V1.2\App\main.c"
+A5=_ "E:\软件设计\区赛后程序\B车—舵机1 最新轮胎最终版改进版\App\main.c" ""
+A6=_ "E:\软件设计\区赛后程序\B车—舵机1 最新轮胎最终版改进版\Board\src\SERVO_MOTOR.c" ""
+A7=_ "E:\软件设计\区赛后程序\B车—舵机1 最新轮胎最终版改进版\Chip\src\MK60_PIT.c" ""
+A8=_ "E:\软件设计\区赛后程序\B车—舵机1 最新轮胎最终版改进版\Chip\src\MK60_mcg.c" ""
+A9=_ "E:\软件设计\区赛后程序\B车—舵机1 最新轮胎最终版改进版\Lib\CMSIS\Inc\core_cm4.h" ""
+Count=10
+SuppressDialog=1
